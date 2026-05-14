@@ -1,0 +1,7 @@
+1. Average math score is around 66.
+2. Male students have slightly higher average math scores.
+3. Students who completed the test preparation course performed better.
+4. Reading and writing scores are strongly correlated.
+5. Standard lunch students showed better average reading scores.
+6. The dataset has no missing values.
+7. Female students performed better in reading and writing.
