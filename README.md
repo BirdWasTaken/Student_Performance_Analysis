@@ -1,6 +1,6 @@
-# Student Performance Analysis
+# Student Performance Analysis using Python
 
-A beginner data analysis project using Python.
+A beginner data analysis project that explores student exam performance using Python libraries such as pandas, matplotlib, and seaborn.
 
 ## Tools Used
 - pandas
